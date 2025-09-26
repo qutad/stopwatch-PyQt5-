@@ -56,4 +56,4 @@ Pull requests are welcome! If you have improvements (like adding laps, exporting
 
 ## License
 
-This project is licensed under the GNU 2.0
+This project is licensed under the GPL 2.0 License
