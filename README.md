@@ -18,7 +18,7 @@ A lightweight stopwatch application with Start, Stop, and Reset functionality. P
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/simple-stopwatch.git
+git clone https://github.com/qutad/stopwatch-PyQt5-.git
 ```
 ```bash
 cd simple-stopwatch
