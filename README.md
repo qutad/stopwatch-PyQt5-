@@ -46,6 +46,7 @@ python stopwatch.py
 ## Tech Stack
 
 · Language: Python
+
 · GUI Toolkit: PyQt5
 
 
