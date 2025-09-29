@@ -51,7 +51,7 @@ class Stopwatch(QWidget):
 
                             QPushButton {
                                font-size: 24px;
-                               background-color: red;
+                               background-color: #474747;
                                border-radius: 24px;
                            }
                            
